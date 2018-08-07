@@ -5,4 +5,7 @@ this is b test by vdi.
 this is b test by etc.
 
 aaa
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
