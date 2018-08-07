@@ -2,20 +2,10 @@
 Creating a new branch is quick.
 Creating a new branch is quic&simple.
 Creating a new branch is quick AND simple.
-<<<<<<< Updated upstream
+m
 Creating a new branch 
 Coding is right!
 
-issue-101 must be issue.
-
-=======
 Creating a new branch etc.
 
 issue-101 must be issue.
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
