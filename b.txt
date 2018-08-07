@@ -1,1 +1,8 @@
 this is b test.
+<<<<<<< Updated upstream
+=======
+this is b test by vdi.
+this is b test by etc.
+
+aaa
+>>>>>>> Stashed changes
