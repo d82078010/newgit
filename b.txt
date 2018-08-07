@@ -3,8 +3,13 @@ this is b test by vdi.
 this is b test by etc.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 b
 
+=======
+
+aaa
+>>>>>>> Stashed changes
 =======
 
 aaa
