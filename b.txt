@@ -3,6 +3,7 @@ this is b test.
 this is b test by vdi.
 this is b test by etc.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 
 <<<<<<< Updated upstream
@@ -40,6 +41,10 @@ aaa
 =======
 
 >>>>>>> newdev
+aaa
+>>>>>>> Stashed changes
+=======
+
 aaa
 >>>>>>> Stashed changes
 =======
