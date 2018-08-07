@@ -12,4 +12,7 @@ issue-101 must be issue.
 Creating a new branch etc.
 
 issue-101 must be issue.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
